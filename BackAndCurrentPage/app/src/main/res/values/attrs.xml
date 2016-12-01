@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BackAndNumView">
+
+        <attr name="backAndNumColor" format="color"/>
+        <attr name="demoNumSize" format="dimension"/>
+        <attr name="numerNum" format="dimension"/>
+        <attr name="viewThickness" format="float"/>
+        <attr name="bgcolor" format="color"/>
+
+    </declare-styleable>
+
+
+</resources>
