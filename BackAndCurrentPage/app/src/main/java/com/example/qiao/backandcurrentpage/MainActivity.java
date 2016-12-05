@@ -93,7 +93,6 @@ public class MainActivity extends AppCompatActivity {
 
         @Override
         public int getItemCount() {
-            Log.d("qjb-test","current mList.size():"+mList.size());
             return mList.size();
         }
     }
